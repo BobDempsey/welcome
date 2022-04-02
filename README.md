@@ -1,5 +1,5 @@
 ## 👋 Hello, I'm Robert Dempsey 🤓
-### I'm a full stack JavaScript web developer
+### I'm a full stack JavaScript web developer and aspiring dev ops engineer
 #### I'm currently learning all things AWS and DevOps
 
 #### Check out my website [RobertDempsey.io](https://robertdempsey.io/)
