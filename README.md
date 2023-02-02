@@ -1,10 +1,10 @@
 ## 👋 Hello, I'm Robert Dempsey 🤓
-### I'm a full stack JavaScript web developer and aspiring dev ops engineer
-#### I'm currently learning all things AWS and DevOps
+### I'm a full stack JavaScript web developer and AWS cloud engineer
+#### I'm currently learning all things full stack and more
 
 #### Check out my website [RobertDempsey.io](https://robertdempsey.io/)
 
-#### Email me [Mail@RobertDempsey.io](mailto:mail@robertdempsey.io)
+#### Email me [bobdempsey83@gmail.com](mailto:bobdempsey83@gmail.com)
 
 ##### Thanks for stopping by! #####
 
